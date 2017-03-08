@@ -19,6 +19,8 @@
 -   Split
 
 
+<h1>blabla</h1>
+
 ## Racourci :
 
 -   **\d** : Equivalent de [0-9]
