@@ -1,3 +1,6 @@
+
+
+
 # RESUME Leçon 8
 # EXPRESSION REGULIERE
 
@@ -19,7 +22,7 @@
 -   Split
 
 
-<h1>blabla</h1>
+<span style="color:blue">blue</span>
 
 ## Racourci :
 
