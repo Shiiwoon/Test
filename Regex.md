@@ -6,6 +6,8 @@
 
 ## Methode : 
 
+<font color="red">This is some text!</font>
+
 #### Search
 > **Def** : Permet de rechercher un motif dans une chaine de caractère.
 
